@@ -1,6 +1,6 @@
 # Titulo 1
-## Subtitulo 2
-Hola **texto en negrillas**
+## Se ha editado
+Hola **Probando cambios**
 
 citas
->Contenidos de otros
+>Contenidos ACTUALIZADOS
